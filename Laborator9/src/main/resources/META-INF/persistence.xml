@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd"
+             version="2.2">
+    <persistence-unit name="MyApplicationPU" transaction-type="RESOURCE_LOCAL">
+        <class>entities.ActorsEntity</class>
+        <class>entities.DirectorsEntity</class>
+        <class>entities.GenresEntity</class>
+        <class>entities.MovieactorsEntity</class>
+        <class>entities.MoviedirectorsEntity</class>
+        <class>entities.MoviegenresEntity</class>
+        <class>entities.MoviesEntity</class>
+        <properties>
+            <property name="toplink.jdbc.url" value="jdbc:mysql://localhost:3307/db"/>
+            <property name="toplink.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+            <property name="toplink.jdbc.user" value="root"/>
+            <property name="toplink.jdbc.password" value="STUDENT"/>
+        </properties>
+    </persistence-unit>
+</persistence>
