@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c98e6c2-2dcb-4267-bf59-dca1c35c2db4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/Catalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/CatalogIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/CatalogIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/CatalogUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/CatalogUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/InvalidCatalogException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/InvalidCatalogException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/Lab5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/Lab5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5 (compulsory incomplet)/src/laborator/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5/src/laborator/Lab5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5/src/laborator/Lab5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator6 (compulsory + optional)/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator6 (compulsory + optional)/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator6 (compulsory + optional)/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator6 (compulsory + optional)/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator6 (compulsory + optional)/src/lab/Lab6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator6 (compulsory + optional)/src/lab/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator6 (compulsory + optional)/src/panels/ConfigPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator6 (compulsory + optional)/src/panels/ControlPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator6 (compulsory + optional)/src/panels/DrawingPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator6 (compulsory + optional)/src/panels/RegularPolygon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator6 (compulsory + optional)/src/panels/ShapesPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator8/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator8/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator8/.idea/dataSources/8390c85c-a567-4b43-9f15-a13d3421b851.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator8/.idea/dataSources/8390c85c-a567-4b43-9f15-a13d3421b851.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator8/src/main/java/laborator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator8/src/main/java/laborator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator8/src/main/java/laborator/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator8/src/main/java/laborator/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator8/target/classes/laborator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator8/target/classes/laborator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator8/target/classes/laborator/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator8/target/classes/laborator/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator8/target/classes/laborator/Tools.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator8/target/classes/laborator/Tools.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sTBdmmoEeArehXYhsXXwiXstfw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c98e6c2-2dcb-4267-bf59-dca1c35c2db4" name="Default Changelist" comment="" />
+      <created>1620886789349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620886789349</updated>
+      <workItem from="1620886790948" duration="2000" />
+    </task>
+    <servers />
+  </component>
+</project>

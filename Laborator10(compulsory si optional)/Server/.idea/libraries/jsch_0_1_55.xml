@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jsch-0.1.55">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Descarcari/jsch-0.1.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Descarcari/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreesvg-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Descarcari/jfreechart-1.0.19/jfreechart-1.0.19/lib/swtgraphics2d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
